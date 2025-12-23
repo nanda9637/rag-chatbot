@@ -1,0 +1,9 @@
+weaviate-client
+weaviate
+crewai
+langchain-groq
+langgraph
+langchain-community
+python-dotenv
+tavily-python
+streamlit
